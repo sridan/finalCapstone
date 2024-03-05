@@ -1,6 +1,6 @@
 # finalCapstone 
 
-Description
+Description:
 This Capstone Project showcases Natural Language Processing (NLP) preprocessing using the Spacy and TextBlob Libraries. The program performs sentiment analysis on a dataset of product reviews and also conducts semantic analysis to return a compatibility score.
 
 The project is designed to demonstrate the application of NLP techniques in analyzing textual data, specifically focusing on sentiment and semantic analysis in the context of product reviews.
@@ -37,7 +37,7 @@ Credits:
 This project was created by me. If you have any questions or feedback, feel free to reach out to my email.
 Special thanks to the developers of Spacy and TextBlob for their contributions to the NLP community.
 
-
+Note:The amazon_product_reviews file you've received is in zip format due to its large size. Please unzip the file and copy its contents to the required folder before using it in the program.
 
 
 
